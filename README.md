@@ -1,4 +1,5 @@
 # PyChat: A Python-Based Secure Chat Room
+[![PyPI](https://img.shields.io/pypi/v/rsa.svg)](https://pypi.org/project/rsa/)
 
 Advanced Python-based secure chat room application using socket library. All the project is entirely developed using socket library for client/server connection and rsa library for communication encryption. Run the server with a specific IP Address and Port, then open the client interface and logging with the username and the chat room ID. 
 
