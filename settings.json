@@ -1,0 +1,1 @@
+{"interface": {"bg_color": "#fff", "bg_button": "#fff", "text_color": "#000", "font": "arial"}, "server": {"address": "192.168.1.50", "port": 5050}, "client": {"address": "192.168.1.50", "port": 5050}}
